@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>
+https://s611vla.storage.yandex.net/rdisk/1c0b7dbf95e9e1f3773391ad158c0c5d0ce65288a62d03ed4f2a5c23298476d3/696953f6/USoZgYoXEUi1DYsrlN4WbPEmMycZX___Hm91HfHK6RUsx4CZw987R7u85JyJNX07HajceILHgujaNkiM_4untQ==?uid=0&filename=GiftMate%205.11.2.ipa&disposition=attachment
+          </string>
+        </dict>
+      </array>
+
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>ru.app.gift.mate.prod</string>
+        <key>bundle-version</key>
+        <string>5.11.2</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>GiftMate</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
