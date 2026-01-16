@@ -2,31 +2,32 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>items</key>
-  <array>
-    <dict>
-      <key>assets</key>
-      <array>
+    <key>items</key>
+    <array>
         <dict>
-          <key>kind</key>
-          <string>software-package</string>
-          <key>url</key>
-          <string>https://downloader.disk.yandex.ru/disk/819775059821d9fe686004420e5edc3ca523a4520245667e9072935b51b8f502/69695dbc/USoZgYoXEUi1DYsrlN4WbPEmMycZX___Hm91HfHK6RUsx4CZw987R7u85JyJNX07HajceILHgujaNkiM_4untQ%3D%3D?uid=0&amp;filename=GiftMate%205.11.2.ipa&amp;disposition=attachment&amp;hash=3euiu%2BcowE8AtWmi9I3i/1Zj%2BGJ5jV9JN/FKt4CJB1r7nAHloIc71n92QKCdA%2Bxuq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&amp;limit=0&amp;content_type=application%2Fzip&amp;owner_uid=773676919&amp;fsize=375661919&amp;hid=50111e646d675517b4be4f36522ae8cc&amp;media_type=compressed&amp;tknv=v3</string>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://downloader.disk.yandex.ru/disk/169459b96ae1cb8c23f86221878e8eb5bfdf85f7f4b66e1eaaa8b060e03cb508/696a790f/USoZgYoXEUi1DYsrlN4WbPEmMycZX___Hm91HfHK6RUsx4CZw987R7u85JyJNX07HajceILHgujaNkiM_4untQ%3D%3D?uid=0&amp;filename=GiftMate%205.11.2.ipa&amp;disposition=attachment&amp;hash=3euiu%2BcowE8AtWmi9I3i/1Zj%2BGJ5jV9JN/FKt4CJB1r7nAHloIc71n92QKCdA%2Bxuq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&amp;limit=0&amp;content_type=application%2Fzip&amp;owner_uid=773676919&amp;fsize=375661919&amp;hid=50111e646d675517b4be4f36522ae8cc&amp;media_type=compressed&amp;tknv=v3</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>ru.app.gift.mate.prod</string>
+                <key>bundle-version</key>
+                <string>5.11.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>GiftMate</string>
+            </dict>
         </dict>
-      </array>
-      <key>metadata</key>
-      <dict>
-        <key>bundle-identifier</key>
-        <string>ru.app.gift.mate.prod</string>
-        <key>bundle-version</key>
-        <string>5.11.2</string>
-        <key>kind</key>
-        <string>software</string>
-        <key>title</key>
-        <string>GiftMate</string>
-      </dict>
-    </dict>
-  </array>
+    </array>
 </dict>
 </plist>
+
 
